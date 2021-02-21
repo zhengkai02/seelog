@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"common/netreuse/singlepoll"
-	sockaddrnet "common/netreuse/sockaddr/net"
+	"github.com/zhengkai02/seelog/common/netreuse/singlepoll"
+	sockaddrnet "github.com/zhengkai02/seelog/common/netreuse/sockaddr/net"
 )
 
 const (
