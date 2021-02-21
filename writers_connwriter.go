@@ -31,7 +31,7 @@ import (
 	"net"
 	"strings"
 
-	"common/netreuse"
+	"github.com/zhengkai02/seelog/common/netreuse"
 )
 
 // connWriter is used to write to a stream-oriented network connection.
