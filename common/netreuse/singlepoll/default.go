@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 
-	"common/netreuse/poll"
+	"github.com/zhengkai02/seelog/common/netreuse/poll"
 )
 
 var (
